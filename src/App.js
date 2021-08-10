@@ -1,9 +1,9 @@
 import React, {Component} from 'react';
-import Habit from './components/Habit.js';
+import Gan from './Gan';
 
 class App extends Component {
   render() {
-    return <Habit />;
+    return <Gan />;
   }
 }
 
